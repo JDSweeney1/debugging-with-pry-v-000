@@ -1,6 +1,6 @@
 def plus_two(num)
 	num + 2
-	answer = ghost
+	answer = puts "ghost"
 	answer
 	binding.pry
 end
